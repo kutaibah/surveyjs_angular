@@ -12,7 +12,7 @@ This project was built over  [surveyjs_angular_cli](https://github.com/surveyjs/
 
  2. **Install node dependencies**
  	```
-	node install
+	npm install
 	```
  3. **Run the Project**
  	```
